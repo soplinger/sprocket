@@ -1,0 +1,7 @@
+# Gravel bike with a wide-range cassette, for comparison
+name: Gravel
+wheel: 2200mm
+cadence: 80
+chainrings: 40 30
+cassette: 11 12 13 14 16 18 21 24 28 32 36 42
+tolerance: 1

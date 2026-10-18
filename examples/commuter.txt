@@ -1,0 +1,8 @@
+# Commuter bike, 2x8 setup
+name: Commuter
+wheel: 700x28c
+cadence: 85
+chainrings: 48 34
+cassette: 11 13 15 17 19 21 24 28
+tolerance: 0.5
+gap: 15

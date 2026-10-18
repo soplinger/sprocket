@@ -1,0 +1,7 @@
+# A drivetrain file with mistakes, to show the line-numbered errors
+name: Broken
+wheel: 700x99c
+chainrings: 48t 34
+cassette: 11 13 xx 17
+speed: 90
+chainrings: 52
